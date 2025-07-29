@@ -1,4 +1,5 @@
-export const BASE_URL = "http://localhost:8000";
+export const BASE_URL = "https://sdn302.gicunhso.shop/";
+// export const BASE_URL ="https://localhost:8000/";
 
 // utils/apiPaths.js
 export const API_PATHS = {
